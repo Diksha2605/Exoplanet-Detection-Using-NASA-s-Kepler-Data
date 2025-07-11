@@ -1,0 +1,42 @@
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- NumPy & Pandas
+- Matplotlib & Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📌 Results
+
+- Best Model: **Random Forest Classifier**
+- Accuracy: ~95%
+- Effective classification between CONFIRMED and FALSE POSITIVE planets
+- Robust to missing values and noise in the dataset
+
+---
+
+## 📚 References
+
+- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+- [Kepler Mission Overview](https://www.nasa.gov/mission_pages/kepler/overview/index.html)
+- [Scikit-learn Documentation](https://scikit-learn.org/)
+
+---
+
+## 👩‍💻 Author
+
+**Diksha Singh**  
+_Data Science Enthusiast_  
+📎 [LinkedIn](https://www.linkedin.com/in/diksha-singh30) | 💻 [GitHub](https://github.com/Diksha2605)
+
+---
+
+## ⭐️ Show Your Support
+
+If you found this project helpful, feel free to star ⭐ the repository and follow for more!
+
